@@ -145,5 +145,7 @@ watch(dateVal, (value) => {
 }
 .change-input input {
     flex:1;
+    font-size: 18px;
+    font-weight: 500;
 }
 </style>
